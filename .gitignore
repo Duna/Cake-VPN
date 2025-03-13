@@ -15,3 +15,5 @@
 
 
 vpnLib/build/.transforms/*
+vpnLib/build/generated/*
+vpnLib/build/*
