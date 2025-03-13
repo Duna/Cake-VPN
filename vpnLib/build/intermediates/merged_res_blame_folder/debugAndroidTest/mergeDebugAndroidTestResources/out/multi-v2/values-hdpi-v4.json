@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "de.blinkt.openvpn.test.vpnLib-mergeDebugAndroidTestResources-23:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/dunatv/.gradle/caches/transforms-4/3442b4547d3588913c812ee995467ca1/transformed/appcompat-1.7.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
